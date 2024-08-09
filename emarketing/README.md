@@ -1,2 +1,2 @@
 # 2-minutes-backend
-# asdsad
+# package.json import from previous codes, .env file as well if not present
